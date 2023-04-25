@@ -1,4 +1,5 @@
-﻿// 1 варіант
+// 1 варіант
+
 using System;
 
 namespace Project_6
@@ -65,5 +66,3 @@ namespace Project_6
         }
     }
 }
-    
-
